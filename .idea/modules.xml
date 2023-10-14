@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Hashing/Arrays_Hashing.iml" filepath="$PROJECT_DIR$/Arrays_Hashing/Arrays_Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_intervire.iml" filepath="$PROJECT_DIR$/.idea/Java_intervire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Hashing/Leetcode1/Leetcode1.iml" filepath="$PROJECT_DIR$/Arrays_Hashing/Leetcode1/Leetcode1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Hashing/Leetcode217/Leetcode217.iml" filepath="$PROJECT_DIR$/Arrays_Hashing/Leetcode217/Leetcode217.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Hashing/Leetcode242/Leetcode242.iml" filepath="$PROJECT_DIR$/Arrays_Hashing/Leetcode242/Leetcode242.iml" />
+    </modules>
+  </component>
+</project>
